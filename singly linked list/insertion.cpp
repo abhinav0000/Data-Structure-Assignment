@@ -132,7 +132,7 @@ int main()
 	}
 	else
 	{
-		cout<<"please choose 1 OR 2";
+		cout<<"please choose 1 OR 2"<<endl;
 		goto again;
 	}
 

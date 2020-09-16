@@ -9,7 +9,8 @@ class node
 };
 
 void display(node *start)
-{
+{	
+	cout<<"The list is:"<<endl
 	node *ptr;
 	ptr=start;
 	
