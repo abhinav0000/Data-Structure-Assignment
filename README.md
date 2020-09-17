@@ -54,3 +54,21 @@ swapping the adjacent elements if they are in wrong order.<BR> Code the
 Bubble sort with the following elements:<Br>
 64 34 25 12 22 11 90<Br>
 7) Design the Logic to Find a Missing Number in a Sorted Array.
+<br>
+<br>
+
+# SINGLY LINKED LIST:-
+1. Develop a menu driven program for the following operations of on a Singly Linked List. <br>
+(a) Insertion at the beginning.<Br> 
+ (b) Insertion at the end.<Br>
+ (c) Insertion in between (before or after a node having a specific value, say 'Insert a new Node 35 before/after the Node 30').<br>
+ (d) Deletion from the beginning. <Br>
+ (e) Deletion from the end.<br>
+ (f) Deletion of a specific node, say 'Delete Node 60'). <BR>
+ (g) Search for a node and display its position from head.<Br> 
+ (h) Display all the node values.<Br>
+2. Write a program to count the number of occurrences of a given key in a singly linked list and then delete all the occurrences. For example, if given linked list is 1->2-         >1>2->1->3->1 and given key is 1, then output should be 4. After deletion of all the occurrences of 1, the linked list is 2->2->3. <Br>
+3. Write a program to find the middle of a linked list. https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/ <Br>
+4. Write a program to reverse a linked list. 
+https://www.geeksforgeeks.org/reverse-a-linked-list/ 
+ 
